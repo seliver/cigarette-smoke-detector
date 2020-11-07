@@ -1,5 +1,10 @@
 # Arduino Cigarette Sensor
 
+Hardware Used:
+- Arduino Uno
+- PPD42NJ/PPD42NS Dust Sensor
+- Buzzer
+
 ## Base taken from
 https://www.youtube.com/watch?v=a8r4CeQopfY
 
@@ -8,7 +13,7 @@ Code: http://www.himix.lt/arduino/arduino-and-dust-sensor/
 ### Schema to connect the Sensor taken from here:
 https://create.arduino.cc/projecthub/infoelectorials/project-010-arduino-grove-dust-sensor-ppd42ns-project-ab5f5e
 
-![Sensor schema to arduino connection](/images/sensor_schema.jpg)
+![PPD42NJ/PPD42NS Sensor schema to arduino connection](/images/sensor_schema.jpg)
 
 ### Connecting the leds:
 https://www.mymakerstuff.de/arduinotutorial-drei-leds-ansteuern/
